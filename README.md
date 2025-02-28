@@ -1,2 +1,2 @@
 # SCM_Class2
-conflict
+conflict resolved
